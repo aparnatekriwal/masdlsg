@@ -1,0 +1,15 @@
+{
+  "name": "ShopMart SG",
+  "short_name": "ShopMart",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#131921",
+  "theme_color": "#131921",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
